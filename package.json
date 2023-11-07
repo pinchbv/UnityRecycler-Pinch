@@ -1,5 +1,5 @@
 {
-  "name": "nl.pinch.recyclerview",
+  "name": "nl.pinch.recyclerviewunity",
   "version": "0.1.0",
   "displayName": "(Pinch) RecyclerView",
   "description": "A Unity RecyclerView based on the Open source version.",
