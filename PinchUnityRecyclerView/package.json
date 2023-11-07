@@ -1,0 +1,14 @@
+{
+  "name": "nl.pinch.recyclerview",
+  "version": "0.1.0",
+  "displayName": "(Pinch) RecyclerView",
+  "description": "A Unity RecyclerView based on the Open source version.",
+  "unity": "2022.3",
+  "unityRelease": "7f1",
+  "dependencies": {},
+  "author": {
+    "name": "Alex Caskey",
+    "email": "alex.caskey@pinch.nl",
+    "url": "https://pinch.com"
+  }
+}
