@@ -25,8 +25,7 @@ namespace Pinch.RecyclerView
         public abstract void OnBindViewHolder(T holder, int i);
         public abstract int GetItemCount();
         protected LayoutManager<T> LayoutManager;
-
-
+        
         private void Awake()
         {
             LayoutManager = new LayoutManager<T>(this);
